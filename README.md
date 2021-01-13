@@ -2,7 +2,7 @@
 
 <h1>Name:</h1> <h2>Deepak kumar</h2>
 
-Email ID on Progate: <a href="dk271560@gmail.com">Deepak kumar</a>
+Email ID on Progate: <a href="https://mail.google.com/mail/u/0/dk271560@gmail.com">Deepak kumar</a>
 
  <h3>Name of your Project: Portfolio</h3>
 
