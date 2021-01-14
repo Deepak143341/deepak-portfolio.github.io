@@ -10,6 +10,6 @@ Technologies Used:<h4>HTML,CSS,GIT,GITHUB</h4>
 
 A brief Description About Your Project:
 
-Your Github Repository:<a href="https://deepak143341.github.io/deepmy-portfolio.github.io/"> REPOSITORY</a>
+Your Github Repository:<a href="https://github.com/Deepak143341/deepmy-portfolio.github.io"> deepmy-portfolio.github.io</a>
 
 Github Page Link: <a href="https://github.com/Deepak143341/"> GITHUB ID</a>
